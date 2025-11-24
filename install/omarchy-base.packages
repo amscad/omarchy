@@ -4,6 +4,7 @@
 1password-beta
 1password-cli
 aether
+alacritty
 asdcontrol
 avahi
 bash-completion
@@ -31,6 +32,7 @@ fcitx5-qt
 fd
 ffmpegthumbnailer
 fontconfig
+foot
 fzf
 ghostty
 github-cli
