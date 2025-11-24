@@ -13,6 +13,7 @@ bluetui
 brightnessctl
 btop
 clang
+code
 cups
 cups-browsed
 cups-filters
@@ -105,7 +106,6 @@ ruby
 rust
 satty
 sddm
-signal-desktop
 slurp
 spotify
 starship
