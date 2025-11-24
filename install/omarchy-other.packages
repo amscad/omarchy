@@ -13,6 +13,8 @@ git
 gst-plugin-pipewire
 gtk4-layer-shell
 htop
+intel-gmmlib
+intel-media-driver
 intltool
 iwd
 jdk-openjdk
@@ -21,6 +23,9 @@ libsass
 libva-intel-driver
 libva-nvidia-driver
 limine
+lib32-libva-intel-driver
+lib32-mesa
+vulkan-intel
 limine-mkinitcpio-hook
 limine-snapper-sync
 linux
